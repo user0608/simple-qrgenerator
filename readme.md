@@ -2,7 +2,7 @@
 
 Simple app to generate a QR code that can be used to share a link.
 
-<img src="img/screen.png">
+<img src="src/img/screen.png">
 
 ### MIT License
 
